@@ -2,7 +2,7 @@
 
 This is a Google Apps Script (.gs) written in JavaScript that allows you to specify a Gmail label you've created. Every day at a specific hour, it will automatically delete all emails with that particular label.
 
-To use this script, follow these steps:
+## To use this script, follow these steps:
 
 1. Open https://script.google.com/ using the Google Account associated with the email address containing the label.
 
