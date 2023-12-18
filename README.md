@@ -1,4 +1,4 @@
-# Gmail Delete label
+# Gmail Delete Label
 
 This is a Google Apps Script (.gs) written in JavaScript that allows you to specify a Gmail label you've created. Every day at a specific hour, it will automatically delete all emails with that particular label.
 
