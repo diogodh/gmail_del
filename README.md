@@ -9,6 +9,7 @@ To use this script, follow these steps:
 2. In the file `code.gs`, you must specify the label and the scheduled deletion time (instructions are self-documented inside the file).
 
 3. To create the time trigger, follow these steps:
+   - In the code, set the hour you want it to run under '.atHour()'
    - Save the code.
    - On the top bar, between "Debug" and "Execution Log," choose the function "createTimeDrivenTrigger."
    - Click on "Run."
